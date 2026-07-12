@@ -1,10 +1,10 @@
 # Basic Employee Onboarding (AD)(RBAC)
 
 ## Problem Statement
-[Provide 3 to 5 sentences describing what was broken at Northstar Medical Group. Mention the MSP mismanagement, lack of structure, manual processes, and HIPAA risks that existed before your project.]
+The problem in this project was resolving a user access issue in a fictional healthcare environment using Active Directory. A user was unable to access the resources required for their job because of incorrect account configuration. I investigated the issue, identified the root cause, corrected the configuration, and verified the user had the appropriate access while documenting every step of the process.
 
 ## Solution Overview
-[Provide 4 to 6 sentences describing what you built and how it solved the problem. Cover the new domain creation, the structural OU design, the security groups, the flat RBAC model, and how user provisioning was secured.]
+The solution was to investigate the user's Active Directory account, identify the incorrect OU placement and security group membership, and apply the necessary corrections. After making the changes, I verified the user received the correct Group Policy and access permissions, then documented the investigation and resolution.
 
 ## Video Walkthrough
 [Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
@@ -26,8 +26,9 @@
 
 ## Key Accomplishments
 * Built NMG.com domain from scratch
-* [Add your second key accomplishment here]
-* [Add your third key accomplishment here]
+* Configured Active Directory Domain Services (AD DS)
+* Created Organizational Units and security groups
+* Resolved an Active Directory support ticket
 
 
 
