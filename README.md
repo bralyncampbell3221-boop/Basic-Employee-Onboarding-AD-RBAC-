@@ -7,8 +7,6 @@ The problem in this project was related to a fictional healthcare company called
 ## Solution Overview
 The solution was to build and organize a secure Active Directory environment from the ground up. I created the NMG.com domain, designed Organizational Units, implemented Role-Based Access Control (RBAC) using security groups, configured Group Policy, and simulated a real-world support ticket by investigating and resolving an Active Directory access issue while documenting the entire process.
 
-## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
 
 ## Tools Used
 * Windows Server
